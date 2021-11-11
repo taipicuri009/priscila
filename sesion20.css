@@ -1,0 +1,27 @@
+.caja{
+    border: 5px solid rgb(250, 68, 168);
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 50px;
+background-color:rgb(105, 255, 163);
+}
+.caja1{
+ border-top: 40px solid salmon;
+ border-right: 40px outset  violet;
+ border-bottom:40px double springgreen;
+ border-left: 40px  outset chartreuse; 
+}
+.caja2{
+    border: 8px dotted rgb(197, 88, 197);
+    background-color:lightpink;
+    padding-top:60px;
+    padding-right:40px;
+    padding-bottom:40px;
+    padding-left:50px;
+
+    margin-top: 100px;
+    margin-bottom: 300px;
+    margin-right: 250px;
+    margin-left: 100px;
+}
